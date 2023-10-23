@@ -53,6 +53,16 @@ Este apartado se puede dividir en los siguientes:
 
 Se anima al lector a leer las conclusiones y comentarios incluidos bajo las figuras del fichero `analysis.ipynb` en la carpeta **notebooks** de este repositorio.
 
+## Estudios futuros
+
+Dada la profundidad e interés de la base de datos, quedan frentes abiertos sobre los que el análisis puede profundizar. Entre otras vías, el autor piensa que las que se encuentran a continuación resultan interesantes:
+
+* Estudio de la presencia de ciertas especies de tiburón en ciertas zonas geográficas del globo. Además sería atractivo confirmar si alguna especie de tiburón resulta más mortífero que otra.
+* Estudio horario de los ataques: sería atractivo estudiar si los ataques de tiburón se concentran en cierto rango horario del día así como como la mortalidad de estos. 
+* ¿Afecta el tamaño de los tiburones a la cantidad y mortalidad de los ataques?
+
+
+
 
 ## Recursos
 * [Documentación librería Pandas](https://www.kaggle.com/datasets/teajay/global-shark-attacks)
