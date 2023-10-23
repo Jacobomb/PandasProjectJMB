@@ -1,5 +1,5 @@
-## Shark Attack
-Estudio mediante utilización de métodos y funciones de las librerías pandas, numpy y matplotlib para visualización de resultados y conclusiones del estudio.
+## Shark Attacks - Limpieza y Análisis de una base de datos
+Estudio mediante aplicación de métodos y funciones de las librerías **pandas**, **numpy** y **matplotlib** en Python.
 
 
 ![Shark Front image](./images/shark.jpg) 
@@ -52,3 +52,9 @@ Este apartado se puede dividir en los siguientes:
 * Análisis mortalidad
 
 Se anima al lector a leer las conclusiones y comentarios incluidos bajo las figuras del fichero `analysis.ipynb` en la carpeta **notebooks** de este repositorio.
+
+
+## Recursos
+* [Documentación librería Pandas](https://www.kaggle.com/datasets/teajay/global-shark-attacks)
+* [Documentación librería Numpy](https://numpy.org/doc/)
+* [Documentación librería Matplotlib](https://matplotlib.org/stable/index.html)
