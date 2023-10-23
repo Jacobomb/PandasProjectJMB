@@ -1,6 +1,8 @@
 # PandasProjectJMB
 
-![Shark Front image](../images/shark.jpg)
+![Shark Front image](./images/shark.jpg)
+
+
 
 
 A continuación se lleva a cabo un estudio sobre la base de datos attacks.csv obtenida del siguiente link: (meter el link y tal)
